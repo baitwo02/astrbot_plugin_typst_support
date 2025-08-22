@@ -78,7 +78,7 @@ TEMPLATES = {
 @register(
     "astrbot_plugin_typst_support",
     "baitwo02",
-    "一个将 Typst 代码片段渲染成图片的插件。",
+    "添加 typst 渲染支持",
     "1.2.2",
     "https://github.com/baitwo02/astrbot_plugin_typst_support"
 )
