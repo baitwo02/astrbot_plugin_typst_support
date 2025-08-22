@@ -5,5 +5,6 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "opencc>=1.1.9",
     "typst>=0.13.5",
 ]
